@@ -30,7 +30,7 @@ Forget **Spotify shuffle ruining your mood**—this extension picks a song that 
 3. Enable **Developer mode** (toggle in the top-right corner).
 4. Click **Load unpacked** and select the cloned `MuseMe` folder.
 5. The extension will now be available in your Chrome toolbar.
-6. **To make it work You need to edit the background.js file and put in your own Spotify API key and aimlapi API keys** (you are smart enough to browse the code to edit)
+6. **To make it work You need to "just" edit the background.js file and put in your own Spotify API key and aimlapi API keys** (you are smart enough to browse the code to edit)
 
 ## Usage
 1. Click on the "MuseMe" extension icon.
