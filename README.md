@@ -39,5 +39,3 @@ Forget **Spotify shuffle ruining your mood**—this extension picks a song that 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any issues or suggestions, open an issue or reach out to [shibs1773@gmail.com].
